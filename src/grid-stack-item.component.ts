@@ -1,4 +1,4 @@
-import { Component, HostBinding, Input, Output, OnInit, ComponentRef, ElementRef, ViewChild, Renderer, EventEmitter, OnDestroy, AfterViewInit, ViewContainerRef } from '@angular/core';
+import { Component, HostBinding, Input, Output, OnInit, ComponentRef, ElementRef, ViewChild, Renderer2, EventEmitter, OnDestroy, AfterViewInit, ViewContainerRef } from '@angular/core';
 import { GridStackItem } from './grid-stack-item.model'
 declare var jQuery: any;
 declare var _: any;
